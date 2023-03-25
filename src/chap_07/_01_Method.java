@@ -13,5 +13,5 @@ public class _01_Method {
         sayHello();
         sayHello();
         System.out.println("메소드 호출 후");
-    }
+    } 
 }
