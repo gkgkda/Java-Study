@@ -7,7 +7,7 @@ public class _Quiz_07 {
             // for (int t = encryption; i < info.length(); i++)
             hiddenData += "*";
         }
-        return hiddenData;
+        return hiddenData; 
     }
 
     public static void main(String[] args) {
