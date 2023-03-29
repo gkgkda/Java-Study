@@ -1,8 +1,8 @@
-package chap_08;
+package chap_09;
 
-import chap_08.camera.Camera;
-import chap_08.camera.FactoryCam;
-import chap_08.camera.SpeedCam;
+import chap_09.camera.Camera;
+import chap_09.camera.FactoryCam;
+import chap_09.camera.SpeedCam;
 
 public class _01_AbstractClass {
     public static void main(String[] args) {

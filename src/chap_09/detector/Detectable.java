@@ -1,4 +1,4 @@
-package chap_08.detector;
+package chap_09.detector;
 
 public interface Detectable {
     /*

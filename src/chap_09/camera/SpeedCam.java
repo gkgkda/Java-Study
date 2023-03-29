@@ -1,7 +1,7 @@
-package chap_08.camera;
+package chap_09.camera;
 
-import chap_08.detector.Detectable;
-import chap_08.reporter.Reportable;
+import chap_09.detector.Detectable;
+import chap_09.reporter.Reportable;
 
 public class SpeedCam extends Camera implements Detectable, Reportable {
     private Detectable detector;

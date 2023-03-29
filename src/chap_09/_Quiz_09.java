@@ -1,10 +1,10 @@
-package chap_08;
+package chap_09;
 
-import chap_08.camera.SpeedCam;
-import chap_08.detector.AccidentDetector;
-import chap_08.reporter.VideoReporter;
+import chap_09.camera.SpeedCam;
+import chap_09.detector.AccidentDetector;
+import chap_09.reporter.VideoReporter;
 
-public class _Quiz_08 {
+public class _Quiz_09 {
     public static void main(String[] args) {
         SpeedCam speedCam = new SpeedCam();
         speedCam.setDetector(new AccidentDetector());
