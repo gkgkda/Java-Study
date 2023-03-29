@@ -1,6 +1,6 @@
-package chap_08.detector;
+package chap_09.detector;
 
-import chap_08.reporter.Reportable;
+import chap_09.reporter.Reportable;
 
 public class AccidentDetector implements Detectable, Reportable {
     @Override

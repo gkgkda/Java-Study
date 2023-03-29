@@ -1,4 +1,4 @@
-package chap_08.reporter;
+package chap_09.reporter;
 
 public class VideoReporter implements Reportable {
     @Override
